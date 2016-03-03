@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rerumflandricaru00meye_0007.png"; bbox 0 0 2426 3283; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 489 1413 1788 1493">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 489 1413 1788 1493">
+     <span class='ocr_line' id='line_1_1' title="bbox 489 1413 1788 1493; baseline 0.01 -27"><span class='ocrx_word' id='word_1_1' title='bbox 489 1419 800 1470; x_wconf 72' lang='lat' dir='ltr'>INTRODUGTION</span> <span class='ocrx_word' id='word_1_2' title='bbox 831 1420 857 1469; x_wconf 76' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 889 1420 1128 1471; x_wconf 68' lang='lat' dir='ltr'><strong>L’fflsvffllffl</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1157 1413 1377 1473; x_wconf 68' lang='lat' dir='ltr'>GliJNERALE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1408 1426 1461 1475; x_wconf 78' lang='grc' dir='ltr'><strong>ΒΕ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1494 1427 1545 1477; x_wconf 73' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1575 1428 1788 1493; x_wconf 66' lang='lat' dir='ltr'><strong>FLANDRE,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 863 1629 1399 1682">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 863 1629 1399 1682">
+     <span class='ocr_line' id='line_1_2' title="bbox 863 1629 1399 1682; baseline 0.009 -15"><span class='ocrx_word' id='word_1_8' title='bbox 863 1631 936 1679; x_wconf 62' lang='lat' dir='ltr'><strong>mr</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 968 1629 1127 1679; x_wconf 58' lang='lat' dir='ltr'><strong>Qutqnez</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1157 1632 1209 1671; x_wconf 66' lang='grc' dir='ltr'><strong>ΞΜ</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1239 1634 1399 1682; x_wconf 58' lang='lat' dir='ltr'><strong>memte.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
